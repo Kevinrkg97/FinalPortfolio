@@ -25,6 +25,8 @@ export const SwitcBGC = styled.div`
     border-radius: 30px;
     background-color: ${({theme}) => theme.toggle};
     transition: 1s all ease-in;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, .6);
+
 `;
 
 export const ButtonSwitch = styled.button`

@@ -10,6 +10,10 @@ export const NavContainer = styled.div`
     -webkit-box-shadow: 6px 2px 17px 0px rgba(0,0,0,0.64);
     -moz-box-shadow: 6px 2px 17px 0px rgba(0,0,0,0.64);
     box-shadow: 6px 2px 17px 0px rgba(0,0,0,0.64);
+
+    @media (max-width: 760px){
+        display: none;
+    }
 `;
 
 export const NavWrapper = styled.div`

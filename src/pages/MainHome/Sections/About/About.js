@@ -16,7 +16,7 @@ const About = () => {
             <AboutWrapper>
                 <ProfileImage src={avatar} alt='avatar' />
                 <AboutContent>
-                    <h2> SOBRE MÍ</h2>
+                    <h2>SOBRE MÍ</h2>
                     <h4>Hola, mi nombre es Kevin Guzmán, tengo 25 años y me ubico en la Ciudad de México. Inicié mi vida como desarrollador en el año 2020 especializandome en Python, TypeScript y Dart. Me dedico principalmente al desarrollo Full Stack, tanto móvil como web trabajando con bases de datos relacionales como no relacionales, también tengo conocimiento en las ciencias de datos.</h4>
                 </AboutContent>
                 <ItemsTech>

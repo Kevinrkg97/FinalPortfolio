@@ -5,6 +5,9 @@ export const HeaderContainer = styled.div`
     height: 100vh;
     justify-content: center;
     transition: 0.5s all ease-in;
+    @media (max-width: 760px){
+        height: 150vh;
+    }
 `;
 
 export const HeaderWrapper = styled.div`
@@ -16,15 +19,21 @@ export const HeaderWrapper = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    @media (max-width: 760px){
+    height: auto;
+    }
 `;
 
 export const InfoContainer = styled.div`
     width: 80%;
-    margin: auto;
+    margin-top: 150px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
+    
+    @media (max-width: 760px){
+        margin-top: 0;
+    }
     svg{
         font-size: 10rem;
         float:right;
@@ -64,12 +73,16 @@ export const CustomButton = styled.button`
         background-color: ${({theme}) => theme.hover};
         transition: 0.4s ease-in;
     }
+   
 `;
 
 export const LottieContainer = styled.div`
     position: absolute;
     top: 50px;
     right: 50px;
-    width: 400px;
+    width: 500px;
+    @media (max-width: 760px){
+        position: static;
+    }
 `;
     
