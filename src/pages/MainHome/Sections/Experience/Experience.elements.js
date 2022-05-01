@@ -6,9 +6,12 @@ export const ExperienceContainer = styled.div`
 `;
 
 export const ExperienceWrapper = styled.div`
-    width: 80%;
+    width: 75%;
     margin: auto;
 
+    @media (min-width: 1400px){
+        width: 60%;
+    }
     h2{
         color: ${({theme}) => theme.button}
     }

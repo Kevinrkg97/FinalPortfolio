@@ -28,6 +28,9 @@ const About = () => {
                     <ItemTech>MySql</ItemTech>
                     <ItemTech>Firebase</ItemTech>
                     <ItemTech>PostgreSQL</ItemTech>
+                    <ItemTech>Wordpress</ItemTech>
+                    <ItemTech>Python</ItemTech>
+                    <ItemTech>Scrum</ItemTech>
                 </ItemsTech>
             </AboutWrapper>
         </AboutContainer>

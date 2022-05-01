@@ -25,7 +25,7 @@ export const HeaderWrapper = styled.div`
 `;
 
 export const InfoContainer = styled.div`
-    width: 80%;
+    width: 75%;
     margin-top: 150px;
     display: flex;
     flex-wrap: wrap;
@@ -83,6 +83,10 @@ export const LottieContainer = styled.div`
     width: 500px;
     @media (max-width: 760px){
         position: static;
+    }
+    @media (min-width: 1400px){
+        right: 200px;
+        top: 200px;
     }
 `;
     

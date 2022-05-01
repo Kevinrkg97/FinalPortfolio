@@ -8,7 +8,7 @@ export const ProjectsContainer = styled.div`
 `;
 
 export const ProjectsWrapper = styled.div`
-    width: 80%;
+    width: 75%;
     margin: auto;
     
     h2{
@@ -19,6 +19,9 @@ export const ProjectsWrapper = styled.div`
         width: 100%;
         text-align: center;
 
+    }
+    @media (min-width: 1400px){
+        width: 60%;
     }
 `;
 

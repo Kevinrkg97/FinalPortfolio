@@ -6,11 +6,14 @@ export const AboutContainer = styled.div`
 `;
 
 export const AboutWrapper = styled.div`
-    width: 80%;
+    width: 75%;
     margin: auto;
     @media (max-width: 760px){
         text-align: center;
         width: 100%;
+    }
+    @media (min-width: 1400px){
+        width: 60%;
     }
     
 `;
@@ -47,6 +50,9 @@ export const ProfileImage = styled.img`
         position: relative;
         right: 0;
         margin-bottom: 15px;
+    }
+    @media (min-width: 1400px){
+        right: 300px;
     }
     `;
 

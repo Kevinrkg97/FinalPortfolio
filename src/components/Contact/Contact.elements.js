@@ -6,10 +6,14 @@ export const ContactContainer = styled.div`
 `;
 
 export const ContactWrapper = styled.div`
-    width: 80%;
+    width: 75%;
     margin: auto;
     h2{
         color: ${({theme}) => theme.button}
+    }
+
+    @media (min-width: 1400px){
+        width: 60%;
     }
 `;
 
@@ -69,7 +73,7 @@ export const ContactMessage = styled.div`
 `;
 
 export const ContactCaptcha = styled.div`
-
+    padding: 20px 50px
 `;
 
 export const CustomButton = styled.button`
@@ -80,7 +84,7 @@ export const CustomButton = styled.button`
     outline: none;
     border: none;
     border-radius: 10px;
-    padding: 1rem 2rem;
+    padding: 5px 40px;
     cursor: pointer;
 
     &:hover{
@@ -88,4 +92,6 @@ export const CustomButton = styled.button`
         transition: 0.4s ease-in;
     }
 `;
+
+export const SendedEmail = styled.div``;
 
