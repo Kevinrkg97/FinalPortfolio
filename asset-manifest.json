@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.47e31e08.css",
-    "main.js": "/portfolio/static/js/main.b36415a1.js",
+    "main.js": "/portfolio/static/js/main.73b37d9a.js",
     "static/media/changoonga.png": "/portfolio/static/media/changoonga.258e38cfcdc8e06ea8fa.png",
     "static/media/dbs.png": "/portfolio/static/media/dbs.79d84e1fca0a4fc8c0d3.png",
     "static/media/geoaplication.png": "/portfolio/static/media/geoaplication.eeaf9a95ec70aa30504a.png",
@@ -12,6 +12,7 @@
     "static/media/RKGG.pdf": "/portfolio/static/media/RKGG.f0f4d430261948a891ce.pdf",
     "static/media/matrona.jpg": "/portfolio/static/media/matrona.c2f8cf55738603d60bd6.jpg",
     "static/media/react.jpg": "/portfolio/static/media/react.307992cf240fd1acac9a.jpg",
+    "static/media/php.jpg": "/portfolio/static/media/php.153794e889a889bbaa66.jpg",
     "static/media/predict.png": "/portfolio/static/media/predict.5677d6473a6f7fa50a91.png",
     "static/media/react.png": "/portfolio/static/media/react.809fed23bcdd686de66e.png",
     "static/media/java.png": "/portfolio/static/media/java.f4ea765878d6e68edefd.png",
@@ -22,10 +23,10 @@
     "static/media/postgres.png": "/portfolio/static/media/postgres.aab5f47bdb7c3af86480.png",
     "index.html": "/portfolio/index.html",
     "main.47e31e08.css.map": "/portfolio/static/css/main.47e31e08.css.map",
-    "main.b36415a1.js.map": "/portfolio/static/js/main.b36415a1.js.map"
+    "main.73b37d9a.js.map": "/portfolio/static/js/main.73b37d9a.js.map"
   },
   "entrypoints": [
     "static/css/main.47e31e08.css",
-    "static/js/main.b36415a1.js"
+    "static/js/main.73b37d9a.js"
   ]
 }
