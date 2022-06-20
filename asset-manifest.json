@@ -1,10 +1,43 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.a98de507.js",
+    "main.css": "/portfolio/static/css/main.8eb20739.css",
+    "main.js": "/portfolio/static/js/main.ff7c4f6d.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.a46251a14cf88cb7bff9.jpg",
+    "static/media/changoongaWeb.png": "/portfolio/static/media/changoongaWeb.3f70d8e177680f447daa.png",
+    "static/media/indicioWeb.png": "/portfolio/static/media/indicioWeb.677cdbcd3e98bb920c9a.png",
+    "static/media/changoonga.png": "/portfolio/static/media/changoonga.258e38cfcdc8e06ea8fa.png",
+    "static/media/dbs.png": "/portfolio/static/media/dbs.79d84e1fca0a4fc8c0d3.png",
+    "static/media/geoaplication.png": "/portfolio/static/media/geoaplication.eeaf9a95ec70aa30504a.png",
+    "static/media/avantika.png": "/portfolio/static/media/avantika.338923b15a46c037112a.png",
+    "static/media/indicio.png": "/portfolio/static/media/indicio.4909aa865dddee9e0d09.png",
+    "static/media/SQLServer.jpg": "/portfolio/static/media/SQLServer.3ec89e57dab1f4981168.jpg",
+    "static/media/flutter.jpg": "/portfolio/static/media/flutter.3c563f712cffcb5834e2.jpg",
+    "static/media/js.png": "/portfolio/static/media/js.72b6406b193ba7e32cdf.png",
+    "static/media/matrona.jpg": "/portfolio/static/media/matrona.c2f8cf55738603d60bd6.jpg",
+    "static/media/sin_miedo.jpg": "/portfolio/static/media/sin_miedo.f255460ef028c8e54a7d.jpg",
+    "static/media/RKGG.pdf": "/portfolio/static/media/RKGG.63f35cd15ec5bbd18894.pdf",
+    "static/media/react.jpg": "/portfolio/static/media/react.307992cf240fd1acac9a.jpg",
+    "static/media/php.jpg": "/portfolio/static/media/php.153794e889a889bbaa66.jpg",
+    "static/media/sqlServer.png": "/portfolio/static/media/sqlServer.a4ba4125aadc50241c26.png",
+    "static/media/predict.png": "/portfolio/static/media/predict.5677d6473a6f7fa50a91.png",
+    "static/media/react.png": "/portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/java.png": "/portfolio/static/media/java.f4ea765878d6e68edefd.png",
+    "static/media/php.png": "/portfolio/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/mexico.png": "/portfolio/static/media/mexico.5c8fa02912e3c9c5d12c.png",
+    "static/media/wordpress.png": "/portfolio/static/media/wordpress.610c8523b901d4ca3d2f.png",
+    "static/media/html.png": "/portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/postgres.png": "/portfolio/static/media/postgres.aab5f47bdb7c3af86480.png",
+    "static/media/spring.png": "/portfolio/static/media/spring.76fc8431aea0d261644a.png",
+    "static/media/css.png": "/portfolio/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/firebase.png": "/portfolio/static/media/firebase.46ed5c3055094d0417a5.png",
     "index.html": "/portfolio/index.html",
-    "main.a98de507.js.map": "/portfolio/static/js/main.a98de507.js.map"
+    "main.8eb20739.css.map": "/portfolio/static/css/main.8eb20739.css.map",
+    "main.ff7c4f6d.js.map": "/portfolio/static/js/main.ff7c4f6d.js.map"
   },
   "entrypoints": [
-    "static/js/main.a98de507.js"
+    "static/css/main.8eb20739.css",
+    "static/js/main.ff7c4f6d.js"
   ]
 }
