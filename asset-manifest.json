@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8eb20739.css",
-    "main.js": "/portfolio/static/js/main.354ba7c8.js",
+    "main.js": "/portfolio/static/js/main.a0dfd4e3.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.a46251a14cf88cb7bff9.jpg",
     "static/media/changoongaWeb.png": "/portfolio/static/media/changoongaWeb.3f70d8e177680f447daa.png",
     "static/media/indicioWeb.png": "/portfolio/static/media/indicioWeb.677cdbcd3e98bb920c9a.png",
@@ -15,7 +15,7 @@
     "static/media/js.png": "/portfolio/static/media/js.72b6406b193ba7e32cdf.png",
     "static/media/matrona.jpg": "/portfolio/static/media/matrona.c2f8cf55738603d60bd6.jpg",
     "static/media/sin_miedo.jpg": "/portfolio/static/media/sin_miedo.f255460ef028c8e54a7d.jpg",
-    "static/media/RKGG.pdf": "/portfolio/static/media/RKGG.63f35cd15ec5bbd18894.pdf",
+    "static/media/RKGG.pdf": "/portfolio/static/media/RKGG.8c2724e1fd88fbbcf5c3.pdf",
     "static/media/react.jpg": "/portfolio/static/media/react.307992cf240fd1acac9a.jpg",
     "static/media/php.jpg": "/portfolio/static/media/php.153794e889a889bbaa66.jpg",
     "static/media/sqlServer.png": "/portfolio/static/media/sqlServer.a4ba4125aadc50241c26.png",
@@ -35,10 +35,10 @@
     "static/media/firebase.png": "/portfolio/static/media/firebase.46ed5c3055094d0417a5.png",
     "index.html": "/portfolio/index.html",
     "main.8eb20739.css.map": "/portfolio/static/css/main.8eb20739.css.map",
-    "main.354ba7c8.js.map": "/portfolio/static/js/main.354ba7c8.js.map"
+    "main.a0dfd4e3.js.map": "/portfolio/static/js/main.a0dfd4e3.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.354ba7c8.js"
+    "static/js/main.a0dfd4e3.js"
   ]
 }
