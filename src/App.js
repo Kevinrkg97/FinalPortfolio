@@ -1,22 +1,19 @@
-import React, { useState } from 'react';
-import './App.css';
-import {Navbar, Switch, Themes, Footer, ScrollToTop, Social} from './components';
-import {ThemeProvider} from 'styled-components';
-import { MainHome } from './pages';
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import GlobalStyle from './globalStyles';
+
+import {Home} from './pages'
 
 function App() {
 
-  const[theme, setTheme] = useState('dark');
 
   return (
-    <ThemeProvider theme={Themes[theme]}>
-      <Navbar />
-      <Social />
-      <Switch theme={theme} setTheme={setTheme} />
-      <MainHome theme={theme} />
-      <Footer />
-      <ScrollToTop />
-    </ThemeProvider>
+    <Router>
+      <GlobalStyle />
+      <Switch>
+        <Route path="/portfolio" exact component={Home} />
+      </Switch>
+    </Router>
     
   );
 }

@@ -1,20 +1,25 @@
-import {
-    FooterContainer,
-    FooterContent,
-    FooterWrapper
-} from './Footer.elements';
-import { FaCopyright } from 'react-icons/fa';
+import React from "react";
+import { 
+    FooterSection,
+    FooterWrapper,
+    Line
+ } from './FooterStyles';
+import { SocialNetWorks } from "../../data/socialData";
 
 const Footer = () => {
     return (
-        <FooterContainer>
-            <FooterWrapper>
-                <FooterContent>
-                    <h4><FaCopyright /> 2022, Kevin Guzmán</h4>
-                </FooterContent>
-            </FooterWrapper>
-        </FooterContainer>
-    );
+        <FooterSection>
+                <FooterWrapper>
+                   <Line>
+                        {SocialNetWorks.map((el, index) => (
+                         <a key={index} href={el.url} target='_blank' rel="noreferrer"><el.icon /></a>
+                        ))}
+                        
+                   </Line>
+                   <h4>Kevinrkg97</h4>
+                </FooterWrapper>
+        </FooterSection>
+    )
 }
 
 export default Footer;
