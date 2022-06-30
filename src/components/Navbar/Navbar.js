@@ -51,7 +51,7 @@ const Navbar = () => {
                     <NavMenu show={show}>
                             {data.map((el, index) => (
                                 <NavItem key={index}>
-                                    <NavLinks href={el.to}>
+                                    <NavLinks href={el.to} onClick={closeMobileMenu} >
                                         {el.text}
                                     </NavLinks>
                                 </NavItem>
