@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8eb20739.css",
-    "main.js": "/portfolio/static/js/main.82b1bc25.js",
+    "main.js": "/portfolio/static/js/main.f8d52fde.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.5e0d1c2f1d953c74ddd6.jpg",
     "static/media/changoongaWeb.png": "/portfolio/static/media/changoongaWeb.c6d0b6a0790b3ebe0893.png",
     "static/media/indicioWeb.png": "/portfolio/static/media/indicioWeb.038f0c4f194e7de67689.png",
+    "static/media/RKGG.pdf": "/portfolio/static/media/RKGG.d1497afafe9a4621ec1d.pdf",
     "static/media/changoonga.png": "/portfolio/static/media/changoonga.f3549b5590a63d672126.png",
     "static/media/dbs.png": "/portfolio/static/media/dbs.ead9a0c4c5aa0842f57a.png",
     "static/media/geoaplication.png": "/portfolio/static/media/geoaplication.a02dffd9cd5e266c62c2.png",
-    "static/media/RKGG.pdf": "/portfolio/static/media/RKGG.17fc9dc77f74bc81779b.pdf",
     "static/media/avantika.png": "/portfolio/static/media/avantika.ea62004361da8fec38a2.png",
     "static/media/indicio.png": "/portfolio/static/media/indicio.703f305eee3cd631d47b.png",
     "static/media/sin_miedo.jpg": "/portfolio/static/media/sin_miedo.7cd2279ee536f011fd58.jpg",
@@ -24,10 +24,10 @@
     "static/media/css.png": "/portfolio/static/media/css.463e319bad8e0edf1ef7.png",
     "index.html": "/portfolio/index.html",
     "main.8eb20739.css.map": "/portfolio/static/css/main.8eb20739.css.map",
-    "main.82b1bc25.js.map": "/portfolio/static/js/main.82b1bc25.js.map"
+    "main.f8d52fde.js.map": "/portfolio/static/js/main.f8d52fde.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.82b1bc25.js"
+    "static/js/main.f8d52fde.js"
   ]
 }
